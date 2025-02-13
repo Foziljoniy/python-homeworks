@@ -25,7 +25,7 @@ print(faranheit)
 
 #q6
 a61 = int(input("Number: "))
-print(number%10)
+print(a61%10)
 
 #q7
 num7 = int(input("Enter a number: "))
